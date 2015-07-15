@@ -58,3 +58,4 @@ I then build my primary convex hull algorithm in the form of a function, corral:
         self.up()
         self.restore()
 
+To test, open seq.py, corral.py, Stack.py, TurtleCanvas.py, and Turtle.py, and run corral.py in your command line.
